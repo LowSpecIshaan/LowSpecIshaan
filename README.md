@@ -10,7 +10,7 @@ Interested in backend systems, open source, and building practical software.
 
 # &lt;SKILLS_AND_TECH&gt;
 
-🧠 LANGUAGES  
+&lt;LANGUAGES&gt; 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
@@ -18,14 +18,14 @@ Interested in backend systems, open source, and building practical software.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42"/>
 </p>
 
-🧩 FRAMEWORKS  
+&lt;FRAMEWORKS&gt;
 <p>
   <img src="https://cdn.simpleicons.org/django/62eb84" width="42"/>
   <img src="https://cdn.simpleicons.org/flask/ebb962" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
 </p>
 
-🛠 TOOLS & LIBRARIES  
+&lt;TOOLS & LIBRARIES&gt;
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/>
@@ -33,7 +33,7 @@ Interested in backend systems, open source, and building practical software.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42"/>
 </p>
 
-🗄 DATABASES  
+&lt;DATABASES&gt;  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
