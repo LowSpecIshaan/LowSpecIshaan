@@ -42,28 +42,28 @@ Interested in backend systems, open source, and building practical software.
 # &lt;CONNECT_WITH_ME&gt;
 
 <div align="left">
-  <a href="mailto:your_email@gmail.com" style="text-decoration:none;">
+  <a href="mailto:igupta_be24@thapar.edu" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
          height="35"
          style="display:block;"
          alt="gmail logo"/>
   </a>
 
-  <a href="https://itch.io/profile/YOUR_ITCH_USERNAME" target="_blank" style="text-decoration:none;">
+  <a href="https://ishaan-gupta.itch.io" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=FF16A2&logoColor=white&style=for-the-badge"
          height="35"
          style="display:block;"
          alt="itch logo"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/ishaangupta3112/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
          height="35"
          style="display:block;"
          alt="linkedin logo"/>
   </a>
 
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank" style="text-decoration:none;">
+  <a href="https://www.instagram.com/ishaanxguptaa/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
          height="35"
          style="display:block;"
