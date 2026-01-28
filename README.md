@@ -1,5 +1,4 @@
-
-# <HELLO>
+# &lt;HELLO&gt;
 
 I'm **Ishaan Gupta**  
 CS undergraduate at **Thapar Institute of Engineering and Technology**  
@@ -8,7 +7,7 @@ Currently learning by **contributing, breaking things, and fixing CI** ⚙️
 
 ---
 
-# <SKILLS_AND_TECH>
+# &lt;SKILLS_AND_TECH&gt;
 
 🧠 LANGUAGES  
 <p>
@@ -41,7 +40,7 @@ Currently learning by **contributing, breaking things, and fixing CI** ⚙️
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LowSpecIshaan&layout=compact&theme=tokyonight)
 
-# <CONNECT_WITH_ME>
+# &lt;CONNECT_WITH_ME&gt;
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
