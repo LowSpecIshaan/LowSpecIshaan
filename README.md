@@ -1,13 +1,13 @@
-<HELLO>
+# <HELLO>
 
-👾 Hi, I'm **Ishaan Gupta**  
+I'm **Ishaan Gupta**  
 CS undergraduate at **Thapar Institute of Engineering and Technology**  
 Interested in backend systems, open source, and building practical software.  
 Currently learning by **contributing, breaking things, and fixing CI** ⚙️
 
 ---
 
-<SKILLS_AND_TECH>
+# <SKILLS_AND_TECH>
 
 🧠 LANGUAGES  
 <p>
@@ -40,14 +40,14 @@ Currently learning by **contributing, breaking things, and fixing CI** ⚙️
 
 ---
 
-<STATS>
+# <STATS>
 
 📊  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LowSpecIshaan&layout=compact&theme=tokyonight)
 
 ---
 
-<CONNECT_WITH_ME>
+# <CONNECT_WITH_ME>
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
@@ -63,10 +63,4 @@ Currently learning by **contributing, breaking things, and fixing CI** ⚙️
   </a>
 </p>
 
----
 
-<STATUS>
-
-🟢 Currently exploring open source  
-🟢 Improving backend + Python internals  
-🟢 Learning by doing, not by buzzwords
