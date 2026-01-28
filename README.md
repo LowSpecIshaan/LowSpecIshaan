@@ -10,7 +10,7 @@ py,cpp,html,css,js,cpp,git,github
 ## Frameworks
 dj
 
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LowSpecIshaan&layout=compact&theme=default)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LowSpecIshaan&layout=compact&theme=dark)
 
 # Connect with Me
 
