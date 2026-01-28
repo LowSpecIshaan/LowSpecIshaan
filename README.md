@@ -1,3 +1,4 @@
+
 # <HELLO>
 
 I'm **Ishaan Gupta**  
@@ -38,14 +39,7 @@ Currently learning by **contributing, breaking things, and fixing CI** ⚙️
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
 </p>
 
----
-
-# <STATS>
-
-📊  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LowSpecIshaan&layout=compact&theme=tokyonight)
-
----
 
 # <CONNECT_WITH_ME>
 
