@@ -4,6 +4,8 @@ I'm **Ishaan Gupta**
 CS undergraduate at **Thapar Institute of Engineering and Technology**  
 Interested in backend systems, open source, and building practical software.
 
+<img src="https://raw.githubusercontent.com/LowSpecIshaan/LowSpecIshaan/output/snake.svg" alt="Snake animation" />
+
 ---
 
 # &lt;SKILLS_AND_TECH&gt;
@@ -70,7 +72,5 @@ Interested in backend systems, open source, and building practical software.
          alt="instagram logo"/>
   </a>
 </div>
-
-<img src="https://raw.githubusercontent.com/LowSpecIshaan/LowSpecIshaan/output/snake.svg" alt="Snake animation" />
 
 
