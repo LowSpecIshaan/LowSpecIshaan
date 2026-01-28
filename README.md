@@ -21,7 +21,7 @@ Interested in backend systems, open source, and building practical software.
 🧩 FRAMEWORKS  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="42"/>
+  <img src="https://cdn.simpleicons.org/flask/ffffff" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
 </p>
 
