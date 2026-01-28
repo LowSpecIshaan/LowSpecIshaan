@@ -2,8 +2,7 @@
 
 I'm **Ishaan Gupta**  
 CS undergraduate at **Thapar Institute of Engineering and Technology**  
-Interested in backend systems, open source, and building practical software.  
-Currently learning by **contributing, breaking things, and fixing CI** ⚙️
+Interested in backend systems, open source, and building practical software.
 
 ---
 
@@ -42,18 +41,13 @@ Currently learning by **contributing, breaking things, and fixing CI** ⚙️
 
 # &lt;CONNECT_WITH_ME&gt;
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/ffffff" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
-  </a>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/LowSpecIshaan/LowSpecIshaan/output/snake.svg" alt="Snake animation" />
 
 
