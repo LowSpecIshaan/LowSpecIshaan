@@ -1,13 +1,13 @@
-## Hi there! 👋
+# Hi there! 👋
 
 **I'm Ishaan Gupta** — a CS undergrad at Thapar Institute of Engineering and Technology, passionate about technology, building practical solutions, and continuously learning new skills to solve real-world problems. 🚀
 
-## Skills & Technologies
+# Skills & Technologies
 
-# Languages
+## Languages
 py,cpp,html,css,js,cpp,git,github
 
-# Frameworks
+## Frameworks
 dj
 
 ## Top Projects
