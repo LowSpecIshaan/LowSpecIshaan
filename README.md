@@ -41,7 +41,7 @@ Interested in backend systems, open source, and building practical software.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LowSpecIshaan&layout=compact&theme=tokyonight)
 
-# &lt;CONNECT_WITH_ME&gt;
+# &lt;CONTACT_ME&gt;
 
 <div align="left">
   <a href="mailto:igupta_be24@thapar.edu" style="text-decoration:none;">
