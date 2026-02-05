@@ -1,8 +1,8 @@
 # &lt;HELLO&gt;
 
 I'm **Ishaan Gupta**  
-CS undergrad @ **Thapar Institute of Engineering and Technology**  
-Interested in backend & open source.
+CS undergrad  
+Interested in backend & open source
 
 <img src="https://raw.githubusercontent.com/LowSpecIshaan/LowSpecIshaan/output/snake.svg" alt="Snake animation" />
 
