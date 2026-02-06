@@ -1,6 +1,6 @@
 # &lt;HELLO&gt;
 
-I'm **Ishaan Gupta**  
+**Ishaan Gupta**  
 CS undergrad  
 Interested in backend & open source
 
