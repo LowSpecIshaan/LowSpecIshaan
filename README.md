@@ -1,8 +1,8 @@
 # &lt;HELLO&gt;
 
 **Ishaan Gupta**  
-CS undergrad  
-Interested in backend & open source
+CS Undergrad  
+Backend & Open Source
 
 <img src="https://raw.githubusercontent.com/LowSpecIshaan/LowSpecIshaan/output/snake.svg" alt="Snake animation" />
 
@@ -14,6 +14,7 @@ Interested in backend & open source
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42"/>
 </p>
@@ -38,8 +39,6 @@ Interested in backend & open source
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
 </p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LowSpecIshaan&layout=compact&theme=tokyonight)
 
 # &lt;CONTACT_ME&gt;
 
